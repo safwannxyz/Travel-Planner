@@ -51,6 +51,10 @@ Frontend:
 2. Install dependencies and start the app:
    npm install
    npm start
+       OR
+3. It is of React+Vite, so navigate to the frontend folder
+4. Start the app
+     npm run dev
 
 ----------------------------------------
 
